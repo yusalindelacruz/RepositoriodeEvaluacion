@@ -1,0 +1,4 @@
+hicimos programas usando etiquetas html y tambien usando xampp.el primer ejercicio de php  creamos un codigo para que en la 
+pagina aparecieron un parrafo que decia (hola mundo)
+en el segundo ejercicoos nos enseñaron variables en php y hicimos varios ejemplos
+en el tercero ejercicio aprendimos la estructura condicional if,else y elseif.
